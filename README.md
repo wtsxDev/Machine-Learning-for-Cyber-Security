@@ -1,4 +1,4 @@
-# Machine Learning for Cyber Security [![Awesom](https://3.bp.blogspot.com/-ol6mgvgyN3A/WHvHkXyG6rI/AAAAAAAAB1s/OzsvrKL7glc5I7tR4GluinTXvkM2IUgSgCLcB/s1600/machine%2Blearning%2Bfor%2Bcyber%2Bsecurity.png)](https://kalitut.com)
+# Machine Learning for Cyber Security [![Awesom](https://3.bp.blogspot.com/-ol6mgvgyN3A/WHvHkXyG6rI/AAAAAAAAB1s/OzsvrKL7glc5I7tR4GluinTXvkM2IUgSgCLcB/s1600/machine%2Blearning%2Bfor%2Bcyber%2Bsecurity.png)](http://kalitut.com)
 
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
