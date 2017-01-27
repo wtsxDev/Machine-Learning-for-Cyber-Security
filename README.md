@@ -96,3 +96,9 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
 
+Please have a look at
+* [Best Hacking Books](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
+* [Best Reverse Engineering Books](http://www.kalitut.com/2017/01/Best-reverse-engineering-books.html)
+* [Best Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
+* [Best 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
+* [Best Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
