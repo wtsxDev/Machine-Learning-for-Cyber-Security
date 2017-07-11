@@ -20,9 +20,9 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 * [Stratosphere IPS Data Sets](https://stratosphereips.org/category/dataset.html)
 * [Open Data Sets](http://csr.lanl.gov/data/)
 * [Data Capture from National Security Agency](http://www.westpoint.edu/crc/SitePages/DataSets.aspx)
-* [The ADFA Intrusion Detection Data Sets](https://www.unsw.adfa.edu.au/australian-centre-for-cyber-security/cybersecurity/ADFA-IDS-Datasets/)
+* [The ADFA Intrusion Detection Data Sets](https://www.unsw.adfa.edu.au/australian-centre-for-cyber-security/cybersecurity/ADFA-IDS-Datasets)
 * [NSL-KDD Data Sets](https://github.com/defcom17/NSL_KDD)
-* [Malicious URLs Data Sets](http://sysnet.ucsd.edu/projects/url/)
+* [Malicious URLs Data Sets](https://sysnet.ucsd.edu/projects/url)
 * [Multi-Source Cyber-Security Events](http://csr.lanl.gov/data/cyber1/)
 * [Malware Training Sets: A machine learning dataset for everyone](http://marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
 
