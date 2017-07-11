@@ -89,11 +89,11 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 
 ## [↑](#table-of-contents) Courses
 
-* [Data Mining for Cyber Security by Stanford](http://web.stanford.edu/class/cs259d/)
+* [Data Mining for Cyber Security by Stanford](https://web.stanford.edu/class/cs259d)
 
 ## [↑](#table-of-contents) Miscellaneous
 
-* [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
+* [System predicts 85 percent of cyber-attacks using input from human experts](https://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [A list of open source projects in cyber security using machine learning](http://www.mlsecproject.org/#open-source-projects)
 
 Please have a look at
