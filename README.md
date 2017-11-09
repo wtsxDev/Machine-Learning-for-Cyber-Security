@@ -44,6 +44,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 * [PAYL – Anomalous Payload-based Network Intrusion Detection](http://www.covert.io/research-papers/security/PAYL%20-%20Anomalous%20Payload-based%20Network%20Intrusion%20Detection.pdf)
 * [Anagram – A Content Anomaly Detector Resistant to Mimicry Attacks](http://www.covert.io/research-papers/security/Anagram%20-%20A%20Content%20Anomaly%20Detector%20Resistant%20to%20Mimicry%20Attack.pdf)
 * [Applications of Machine Learning in Cyber Security](https://www.researchgate.net/publication/283083699_Applications_of_Machine_Learning_in_Cyber_Security)
+* [An Investigation of Byte N-Gram Features for Malware Classiﬁcation](http://www.readcube.com/articles/10.1007/s11416-016-0283-1?author_access_token=Y2ftVow3BBIXRTHYIxoCG_e4RwlQNchNByi7wbcMAY4NW74db1mhZZQDQYJ1tM7Y-KZqnwIXRhZC64F6SuX0bowkkoy4Ro-NFZSGOs2sw2kG7I6cMZb9G3I0tfGpLO_rZlh-MF7KZ2i-qxjmAi-Shw%3D%3D)
 
 ## [↑](#table-of-contents) Books
 
