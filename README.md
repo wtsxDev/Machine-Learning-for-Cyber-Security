@@ -25,6 +25,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 * [Malicious URLs Data Sets](https://sysnet.ucsd.edu/projects/url)
 * [Multi-Source Cyber-Security Events](http://csr.lanl.gov/data/cyber1/)
 * [Malware Training Sets: A machine learning dataset for everyone](http://marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
+* [Microsoft Malware Classification Challenge (BIG 2015)](https://www.kaggle.com/c/malware-classification/data)
 
 ## [↑](#table-of-contents) Papers
 
@@ -91,6 +92,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 ## [↑](#table-of-contents) Courses
 
 * [Data Mining for Cyber Security by Stanford](https://web.stanford.edu/class/cs259d)
+* [Cybersecurity Data Science on Udemy](https://www.udemy.com/cybersecurity-data-science/?couponCode=CSDSGITHUB1)
 
 ## [↑](#table-of-contents) Miscellaneous
 
