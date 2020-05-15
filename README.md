@@ -48,6 +48,7 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 
 ## [↑](#table-of-contents) Books
 
+* [Ethical Hacking From Scratch to Advanced Techniques](https://www.amazon.fr/Ethical-Hacking-Scratch-Advanced-Techniques-ebook/dp/B085G8XHB9)
 * [Data Mining and Machine Learning in Cybersecurity](http://amzn.to/2iuWdYX)
 * [Machine Learning and Data Mining for Computer Security](http://amzn.to/2jnCHBs)
 * [Network Anomaly Detection: A Machine Learning Perspective](http://amzn.to/2jlPsgm)
