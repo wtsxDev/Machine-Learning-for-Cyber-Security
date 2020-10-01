@@ -91,6 +91,8 @@ A curated list of amazingly awesome tools and resources related to the use of ma
 ## [↑](#table-of-contents) Courses
 
 * [Data Mining for Cyber Security by Stanford](https://web.stanford.edu/class/cs259d)
+* [Python and Application of Machine Leaning in CyberSecurity](https://freecoursesite.com/learn-python-ethical-hacking-from-scratch-2/)
+* [Playlist on CyberSecurity through Machine Learning](https://www.youtube.com/playlist?list=PL74sw1ohGx7GHqDHCkXZeqMQBVUTMrVLE)
 
 ## [↑](#table-of-contents) Miscellaneous
 
